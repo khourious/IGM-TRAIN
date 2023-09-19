@@ -1,21 +1,23 @@
-# Base repository
+# Bioinformática Decodificada: A Jornada do Iniciante à Genômica de Patógenos
 
-Thank you for working with Wellcome Connecting Science Course! 
+## SOBRE O CURSO
 
-This is an example repository to modify for Wellcome Connecting Science courses. 
+A bioinformática é uma intersecção entre biologia, computação e estatística. Neste curso, você aprenderá os primeiros passos para a bioinformática básica.
 
-Check the course_data and modules repositories for info on how to add data and your course modules info
+A importância da estatística na bioinformática é enfatizada ao longo do curso, preparando os alunos para entender a lógica da linguagem de programação e interpretar os dados obtidos. Além disso, discutiremos a importância da qualidade dos dados na obtenção de resultados significativos.
 
-# Course Name
-Base for the Polygenic Risk Scores course Repository
+Este curso enfatiza a importância do pensamento crítico, incentivando a compreensão das linhas de comando e pensamento crítico na escolha de pipelines. Abordaremos também técnicas de resolução de problemas (troubleshooting), focando no entendimento dos "porquês" em vez de apenas reproduzir metodologias.
 
-## Course overview
+## OBJETIVOS
 
+Equipar os participantes com uma compreensão sólida dos princípios fundamentais da bioinformática e sua aplicação na genômica de patógenos. Buscamos desenvolver habilidades críticas de pensamento, capacidade de resolver problemas e compreensão das ferramentas de análise para que possam realizar análises de dados genômicos com eficiência e eficácia.
 
-[Course website]()
+Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i) identificar e descrever os elementos essenciais envolvidos na etapa de preparação da amostra para sequenciamento; (ii) reconhecer os dados que necessitam de tratamento na bioinformática a partir dos resultados obtidos do sequenciamento; (iii) interpretar a estrutura de linhas de comando básicas na aplicação de análises de genômica de patógenos; (iv) conhecer as ferramentas de bioinformática disponíveis para aplicá-las adequadamente em análises de dados genômica; e (v) desenhar um pipeline de análise baseado nas ferramentas de bioinformática disponíveis incluindo as etapas necessárias para análise.
+
+[Course website](https://campusvirtual.fiocruz.br/portal/?q=node/72077)
 
 ## Instructors
-- [Instrucotr](link),Affiliation
+- [Instructor](link),Affiliation
 
 ### Overview
 
