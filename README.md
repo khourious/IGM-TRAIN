@@ -16,18 +16,18 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 
 [Course website](https://campusvirtual.fiocruz.br/portal/?q=node/72077)
 
-## Instructors
-- [Instructor](link),Affiliation
+## Instrutores
+- [Instrutor](link),Afiliação
 
-### Overview
-
-
-### Detailed timetable
-[View Timetable here]()
+### Visão geral
 
 
+### Cronograma detalhado
+[Veja o cronograma]()
 
-## Course manual
+
+
+## Manual do curso
 **Module 1 - Mod 1**   
 [PDF Manual - Mod 1](Modules/)     
 

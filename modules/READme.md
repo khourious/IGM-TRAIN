@@ -1,12 +1,12 @@
 # Module directory
-Directory for placing the course module files - these should be markdown or PDF documents
+Diretório para colocar os arquivos do módulo do curso - devem ser documentos markdown ou PDF
 
-They include the presentations and practical manuals for the module. 
+Eles incluem as apresentações e manuais práticos do módulo.
 
-Converting between markdown to PDF can be performed using pandoc. Here is a tutorial and system for that:
+A conversão entre markdown para PDF pode ser realizada usando pandoc. Aqui está um tutorial e um sistema para isso:
 
-[Converting with Pandoc](https://github.com/WCSCourses/format_convert)
+[Convertendo com o Pandoc](https://github.com/WCSCourses/format_convert)
 
 
 
-There is an example markdown file - module_base.md
+Há um exemplo de arquivo markdown em - module_base.md

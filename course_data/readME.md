@@ -1,6 +1,6 @@
-# This is a directory for course data
+# Este é um diretório para dados do curso
 
-Files can be uploaded via command line or web portal
+Os arquivos podem ser carregados via linha de comando ou portal da web
 
-You can upload large files via git-lfs https://git-lfs.github.com
+Você pode fazer upload de arquivos grandes via git-lfs https://git-lfs.github.com
 
