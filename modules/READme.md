@@ -1,4 +1,4 @@
-# Module directory
+# Diretório para os Módulos
 Diretório para colocar os arquivos do módulo do curso - devem ser documentos markdown ou PDF
 
 Eles incluem as apresentações e manuais práticos do módulo.
