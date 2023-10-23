@@ -14,37 +14,42 @@ Equipar os participantes com uma compreensão sólida dos princípios fundamenta
 
 Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i) identificar e descrever os elementos essenciais envolvidos na etapa de preparação da amostra para sequenciamento; (ii) reconhecer os dados que necessitam de tratamento na bioinformática a partir dos resultados obtidos do sequenciamento; (iii) interpretar a estrutura de linhas de comando básicas na aplicação de análises de genômica de patógenos; (iv) conhecer as ferramentas de bioinformática disponíveis para aplicá-las adequadamente em análises de dados genômica; e (v) desenhar um pipeline de análise baseado nas ferramentas de bioinformática disponíveis incluindo as etapas necessárias para análise.
 
-[Course website](https://campusvirtual.fiocruz.br/portal/?q=node/72077)
+[Website](https://campusvirtual.fiocruz.br/portal/?q=node/72077)
 
 ## Instrutores
-- [Instrutor](link),Afiliação
-
-### Visão geral
-
+- [Laise de Moraes](https://github.com/lpmor22), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Ricardo Khouri](http://bahia.fiocruz.br), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Andrêza Alencar](http://lattes.cnpq.br/6060587704569605), Universidade Federal Rural de Pernambuco (UFRPE), Brazil
+- [Túlio Campos](https://www.linkedin.com/in/tcampos/), Instituto Aggeu Magalhães (Fiocruz Pernambuco), Brazil
+- [Joyce Silva](https://github.com/joyce-karol/joyce-karol), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Izabela Jesus](https://www.linkedin.com/in/izabela-jesus-886920274/), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Robson Francisco de Souza](https://bv.fapesp.br/pt/pesquisador/95184/robson-francisco-de-souza/),Universidade de São Paulo, Instituto de Ciências Biomédicas, Brazil
+- [Gabriel Carvalho]( https://lattes.cnpq.br/4456457687905570), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Sara Nunes](https://www.linkedin.com/in/saranunes2/), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Thayná Gonzalez](http://lattes.cnpq.br/9477783971608307), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Maria Santana](https://orcid.org/0000-0001-9455-8440), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
 
 ### Cronograma detalhado
-[Veja o cronograma]()
+[Veja o cronograma](course_data/IGM_TRAIN_BPI_chronograma.pdf)
 
 
 
 ## Manual do curso
-**Module 1 - Mod 1**   
-[PDF Manual - Mod 1](Modules/)     
+**Dia 1 - Introdução ao UNIX e linhas de comando**   
+[Manual - Dia 1](Modules/)     
 
 
 
-**Module 3 - **  
-[Online Manual - Introduction to NGS](Modules/)
+**Dia 2 - Montagem de genomcas e identificação de variantes**  
+[Manual - Dia 2](Modules/)
   
-**Module 4 -*  
-[Online Manual - Mod4l QC](Modules/)
+**Dia 3 - Análise filogética e aplicações**  
+[Manual - Dia 3](Modules/)
 
 
 
 
 **Appendix**      
-  
-
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
