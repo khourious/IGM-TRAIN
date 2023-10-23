@@ -36,15 +36,15 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 
 ## Manual do curso
 **Dia 1 - Introdução ao UNIX e linhas de comando**   
-[Manual - Dia 1](Modules/)     
+[Manual - Dia 1](modules/Dia1.md)     
 
 
 
 **Dia 2 - Montagem de genomcas e identificação de variantes**  
-[Manual - Dia 2](Modules/)
+[Manual - Dia 2](modules/Dia2.md)
   
 **Dia 3 - Análise filogética e aplicações**  
-[Manual - Dia 3](Modules/)
+[Manual - Dia 3](modules/Dia3.md)
 
 
 
