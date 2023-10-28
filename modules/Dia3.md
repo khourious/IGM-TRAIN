@@ -1,4 +1,4 @@
-## Dia 2 - Montagem de genomcas e identificação de variantes
+## Dia 3 - Filogenia
 
 A base de conteúdo prático para este curso será em notebooks Python (.ipynb).
 
@@ -19,9 +19,9 @@ na barra de pesquisa em "Digite uma URL do GitHub ou pesquise por organização 
 
 Após uma breve pesquisa, você verá
 ```
-Modules/NOME_DO_NOTEBOOK
+course_data/Dia03.ipynb
 ```
-abaixo de "Caminho". Clique em "NOME_DO_NOTEBOOK".
+abaixo de "Caminho". Clique em "course_data/Dia03.ipynb".
 
 Para executar as células, você precisará fazer login com sua conta do Google (é gratuito criar uma conta).
 
