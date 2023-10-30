@@ -46,8 +46,10 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 **Dia 3 - Análise filogética e aplicações**  
 [Manual - Dia 3](modules/Dia3.md)
 
+**Projecto de Curso**
+[Presentacao](course_data/igm-train_projeto.pptx.pdf)
 
-
+[Grupos](course_data/grupos-igm-train.pdf)
 
 **Appendix**      
 
