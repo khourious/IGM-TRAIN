@@ -25,4 +25,16 @@ abaixo de "Caminho". Clique em "course_data/Dia02.ipynb".
 
 Para executar as células, você precisará fazer login com sua conta do Google (é gratuito criar uma conta).
 
+## **Sua vez de praticar**
+
+Por favor, addicione estas linhas de commando no prencipe de parte practical:
+```
+!wget https://github.com/khourious/IGM-TRAIN/raw/main/course_data/exercise.zip
+```
+
+```
+!unzip exercise
+```
+e continua com as commandas que estao la
+
 **O notebook aberto diretamente do GitHub não será salvo, a menos que os primeiros passos do notebook sejam seguidos**
