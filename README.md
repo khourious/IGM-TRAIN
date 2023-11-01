@@ -51,6 +51,8 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 
 [Grupos](course_data/grupos-igm-train.pdf)
 
+[pasta para adicionar sua apresentação](https://drive.google.com/drive/folders/1D8zGaL5Z_famHvwluo-PXXyekVFZOIlm?usp=share_link)
+
 **Feedback por vavor**      
 [Feedback](course_data/feedback.md)        
 
