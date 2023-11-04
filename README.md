@@ -54,5 +54,5 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 A reutilização dos materiais, dados ou códigos do curso é incentivada, desde que seja dado o devido reconhecimento.
 
 ******
-## License
+## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está licenciada sob uma <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Licença Internacional Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 (CC BY-NC-SA 4.0)</a>.
