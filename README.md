@@ -6,7 +6,7 @@ A bioinformática é uma intersecção entre biologia, computação e estatísti
 
 A importância da estatística na bioinformática é enfatizada ao longo do curso, preparando os alunos para entender a lógica da linguagem de programação e interpretar os dados obtidos. Além disso, discutiremos a importância da qualidade dos dados na obtenção de resultados significativos.
 
-Este curso enfatiza a importância do pensamento crítico, incentivando a compreensão das linhas de comando e pensamento crítico na escolha de pipelines. Abordaremos também técnicas de resolução de problemas (troubleshooting), focando no entendimento dos "porquês" em vez de apenas reproduzir metodologias.
+Este curso enfatiza a importância do pensamento crítico, incentivando a compreensão das linhas de comando e pensamento crítico na escolha de pipelines. Abordaremos também técnicas de resolução de problemas (_troubleshooting_), focando no entendimento dos "porquês" em vez de apenas reproduzir metodologias.
 
 ## OBJETIVOS
 
@@ -17,50 +17,42 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 [Website](https://campusvirtual.fiocruz.br/portal/?q=node/72077)
 
 ## Instrutores
-- [Laise de Moraes](https://github.com/lpmor22), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Ricardo Khouri](http://bahia.fiocruz.br), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Andrêza Alencar](http://lattes.cnpq.br/6060587704569605), Universidade Federal Rural de Pernambuco (UFRPE), Brazil
-- [Túlio Campos](https://www.linkedin.com/in/tcampos/), Instituto Aggeu Magalhães (Fiocruz Pernambuco), Brazil
-- [Joyce Silva](https://github.com/joyce-karol/joyce-karol), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Izabela Jesus](https://www.linkedin.com/in/izabela-jesus-886920274/), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Robson Francisco de Souza](https://bv.fapesp.br/pt/pesquisador/95184/robson-francisco-de-souza/),Universidade de São Paulo, Instituto de Ciências Biomédicas, Brazil
-- [Gabriel Carvalho]( https://lattes.cnpq.br/4456457687905570), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Sara Nunes](https://www.linkedin.com/in/saranunes2/), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Thayná Gonzalez](http://lattes.cnpq.br/9477783971608307), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
-- [Maria Santana](https://orcid.org/0000-0001-9455-8440), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Andrêza Alencar](http://lattes.cnpq.br/6060587704569605), Universidade Federal Rural de Pernambuco, Brazil
+- [Gabriel Carvalho](https://lattes.cnpq.br/4456457687905570), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Izabela Jesus](http://lattes.cnpq.br/4141315075384349), Fundação Oswaldo Cruz FIOCRUZ - Instituto Gonçalo Moniz, Brazil
+- [Joyce Silva](http://lattes.cnpq.br/0672249529836634), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Laise de Moraes](http://lattes.cnpq.br/7097758558494370), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Maria Santana](https://orcid.org/0000-0001-9455-8440), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Ricardo Khouri](http://lattes.cnpq.br/9908602398727888), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Robson Francisco de Souza](http://lattes.cnpq.br/0008899757720949),Universidade de São Paulo, Instituto de Ciências Biomédicas, Brazil
+- [Sara Nunes](http://lattes.cnpq.br/5594266589559004), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Thayná Gonzalez](http://lattes.cnpq.br/9477783971608307), Fundação Oswaldo Cruz - Instituto Gonçalo Moniz, Brazil
+- [Túlio Campos](http://lattes.cnpq.br/1367273895160398), Fundação Oswaldo Cruz - Instituto Aggeu Magalhães, Brazil
 
-### Cronograma detalhado
+### Cronograma
 [Veja o cronograma](course_data/IGM_TRAIN_BPI_chronograma.pdf)
 
-
-
-## Manual do curso
+## Manual do Curso
 **Dia 1 - Introdução ao UNIX e linhas de comando**   
 [Manual - Dia 1](modules/Dia1.md)     
 
-
-
-**Dia 2 - Montagem de genomcas e identificação de variantes**  
+**Dia 2 - Montagem de genomas e identificação de variantes**  
 [Manual - Dia 2](modules/Dia2.md)
   
 **Dia 3 - Análise filogética e aplicações**  
 [Manual - Dia 3](modules/Dia3.md)
 
-**Projecto de Curso**        
-[Presentacao](course_data/igm-train_projeto.pptx.pdf)
+**Projeto de Curso**        
+[Apresentacão dos casos](course_data/igm-train_projeto.pptx.pdf)
+[Sorteio dos grupos](course_data/grupos-igm-train.pdf)
+[Pasta para adicionar o projeto](https://drive.google.com/drive/folders/1D8zGaL5Z_famHvwluo-PXXyekVFZOIlm?usp=share_link)
 
-[Grupos](course_data/grupos-igm-train.pdf)
-
-[pasta para adicionar sua apresentação](https://drive.google.com/drive/folders/1D8zGaL5Z_famHvwluo-PXXyekVFZOIlm?usp=share_link)
-
-**Feedback por vavor**      
+**Feedback por favor**      
 [Feedback](course_data/feedback.md)        
 
-**Appendix**      
-
-Any reuse of the course materials, data or code is encouraged with due acknowledgement.
+**Apêndice**      
+A reutilização dos materiais, dados ou códigos do curso é incentivada, desde que seja dado o devido reconhecimento.
 
 ******
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está licenciada sob uma <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Licença Internacional Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 (CC BY-NC-SA 4.0)</a>.
