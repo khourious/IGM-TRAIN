@@ -59,7 +59,7 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 [Feedback](course_data/feedback.md)        
 
 ******            
-A reutilização dos materiais, dados ou códigos do curso é incentivada, desde que seja dado o devido reconhecimento.
+A reutilização dos materiais, dados ou códigos do curso é incentivada, desde que seja dado o devido reconhecimento.                    
 [Repositório de materiais de outros cursos do programa COG-Train](https://wcscourses.github.io/COG-Train_Resources/index.html)
 ******
 ## Licença
