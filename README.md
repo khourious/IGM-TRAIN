@@ -48,7 +48,7 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 **Dia 3 - Análise filogética e aplicações**  
 [Manual - Dia 3](modules/Dia3.md)          
 [Introdução à filogenia](assests/Dia03-Filogenia.pptx.pdf)     
-[Desafios na criação de árvores filogenéticas](assests/Dia_3_ Discussão_desafios na criação de árvores filogenéticas.pptx.pdf)       
+[Desafios na criação de árvores filogenéticas](assests/Dia_3_ Discussão_desafios.pdf)       
 
 **Projeto de Curso**        
 [Apresentacão dos casos](course_data/igm-train_projeto.pptx.pdf)                 
