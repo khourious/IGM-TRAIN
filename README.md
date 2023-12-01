@@ -48,7 +48,7 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 **Dia 3 - Análise filogética e aplicações**  
 [Manual - Dia 3](modules/Dia3.md)          
 [Introdução à filogenia](assests/Dia03-Filogenia.pptx.pdf)     
-[Desafios na criação de árvores filogenéticas](assests/Dia_3_ Discussão_desafios.pdf)       
+[Desafios na criação de árvores filogenéticas](assests/Dia_3_Discussão_desafios.pdf)       
 
 **Projeto de Curso**        
 [Apresentacão dos casos](course_data/igm-train_projeto.pptx.pdf)                 
@@ -58,9 +58,9 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 **Feedback por favor**      
 [Feedback](course_data/feedback.md)        
 
-**Apêndice**      
+******            
 A reutilização dos materiais, dados ou códigos do curso é incentivada, desde que seja dado o devido reconhecimento.
-
+[Repositório de materiais de outros cursos do programa COG-Train](https://wcscourses.github.io/COG-Train_Resources/index.html)
 ******
 ## Licença
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está licenciada sob uma <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Licença Internacional Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 (CC BY-NC-SA 4.0)</a>.
