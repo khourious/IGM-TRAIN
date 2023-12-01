@@ -1,4 +1,4 @@
-## Dia 2 - Montagem de genomcas e identificação de variantes
+## Dia 2 - Montagem de genomicas e identificação de variantes
 
 A base de conteúdo prático para este curso será em notebooks Python (.ipynb).
 
