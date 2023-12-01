@@ -35,17 +35,25 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 ## Manual do Curso
 **Dia 1 - Introdução ao UNIX e linhas de comando**   
 [Manual - Dia 1](modules/Dia1.md)     
+[Introdução ao curso e boas vindas](assests/Dia_01_PandemicPreparedness_Bem-Vindos.pptx.pdf)           
+[Introdução à genômica de patógenos](assests/Dia_01-Introdução_à_genômica_de_patógenos.pptx.pdf)             
+[Introdução ao sistema operacional Linux](assests/Dia_01.Introdução_Linux.pptx.pdf)           
+[Formatos de arquivos](assests/Dia_01_Formatos de arquivos.pptx.pdf)        
 
 **Dia 2 - Montagem de genomas e identificação de variantes**  
-[Manual - Dia 2](modules/Dia2.md)
+[Manual - Dia 2](modules/Dia2.md)           
+[Montagem e anotação de genomas](assests/Dia_02-Montagem_anotação_de_genomas_virais.pptx.pdf)                
+[Conjuntos de dados para a atividade QC](assests/Dia_02-atividadeQC.zip)    
   
 **Dia 3 - Análise filogética e aplicações**  
-[Manual - Dia 3](modules/Dia3.md)
+[Manual - Dia 3](modules/Dia3.md)          
+[Introdução à filogenia](assests/Dia03-Filogenia.pptx.pdf)     
+[Desafios na criação de árvores filogenéticas](assests/Dia 3_ Discussão, desafios na criação de árvores filogenéticas.pptx.pdf)       
 
 **Projeto de Curso**        
-[Apresentacão dos casos](course_data/igm-train_projeto.pptx.pdf)
-[Sorteio dos grupos](course_data/grupos-igm-train.pdf)
-[Pasta para adicionar o projeto](https://drive.google.com/drive/folders/1D8zGaL5Z_famHvwluo-PXXyekVFZOIlm?usp=share_link)
+[Apresentacão dos casos](course_data/igm-train_projeto.pptx.pdf)                 
+[Sorteio dos grupos](course_data/grupos-igm-train.pdf)                    
+[Pasta para adicionar o projeto](https://drive.google.com/drive/folders/1D8zGaL5Z_famHvwluo-PXXyekVFZOIlm?usp=share_link)              
 
 **Feedback por favor**      
 [Feedback](course_data/feedback.md)        
