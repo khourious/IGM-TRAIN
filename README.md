@@ -38,7 +38,7 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 [Introdução ao curso e boas vindas](assests/Dia_01_PandemicPreparedness_Bem-Vindos.pptx.pdf)           
 [Introdução à genômica de patógenos](assests/Dia_01-Introdução_à_genômica_de_patógenos.pptx.pdf)             
 [Introdução ao sistema operacional Linux](assests/Dia_01.Introdução_Linux.pptx.pdf)           
-[Formatos de arquivos](assests/Dia_01_Formatos de arquivos.pptx.pdf)        
+[Formatos de arquivos](assests/Dia_01_Formatos_arquivos.pptx.pdf)        
 
 **Dia 2 - Montagem de genomas e identificação de variantes**  
 [Manual - Dia 2](modules/Dia2.md)           
@@ -48,7 +48,7 @@ Como objetivos de aprendizagem, esperamos que o participantes sejam capaz de: (i
 **Dia 3 - Análise filogética e aplicações**  
 [Manual - Dia 3](modules/Dia3.md)          
 [Introdução à filogenia](assests/Dia03-Filogenia.pptx.pdf)     
-[Desafios na criação de árvores filogenéticas](assests/Dia 3_ Discussão, desafios na criação de árvores filogenéticas.pptx.pdf)       
+[Desafios na criação de árvores filogenéticas](assests/Dia_3_ Discussão_desafios na criação de árvores filogenéticas.pptx.pdf)       
 
 **Projeto de Curso**        
 [Apresentacão dos casos](course_data/igm-train_projeto.pptx.pdf)                 
